@@ -19,8 +19,15 @@ using Mission07.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "/Users/johnfluhman/Documents/GitHub/IS413_Mission09/Mission07/Mission07/Pages/_ViewImports.cshtml"
+using System.Globalization;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f8b6205f25f7425876f505d7f178ff466e2a1960", @"/Pages/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6d660c4aa166a7b9edccb526807774487b40d028", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"eea9378de572eaf184747b4d839677ee80663d67", @"/Pages/_ViewImports.cshtml")]
     public class Pages__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

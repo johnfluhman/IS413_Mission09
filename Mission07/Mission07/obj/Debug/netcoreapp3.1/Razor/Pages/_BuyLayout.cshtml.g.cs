@@ -19,8 +19,15 @@ using Mission07.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "/Users/johnfluhman/Documents/GitHub/IS413_Mission09/Mission07/Mission07/Pages/_ViewImports.cshtml"
+using System.Globalization;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"94fbccb7665ffd51092b7aaeda93c5b9659a437e", @"/Pages/_BuyLayout.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6d660c4aa166a7b9edccb526807774487b40d028", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"eea9378de572eaf184747b4d839677ee80663d67", @"/Pages/_ViewImports.cshtml")]
     public class Pages__BuyLayout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("href", new global::Microsoft.AspNetCore.Html.HtmlString("~/lib/bootstrap/dist/css/bootstrap.min.css"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -52,7 +59,7 @@ using Mission07.Models;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("<!DOCTYPE html>\n\n<html>\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "94fbccb7665ffd51092b7aaeda93c5b9659a437e3931", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "94fbccb7665ffd51092b7aaeda93c5b9659a437e4131", async() => {
                 WriteLiteral("\n    <meta name=\"viewport\" content=\"width=device-width\" />\n    <title>");
 #nullable restore
 #line 6 "/Users/johnfluhman/Documents/GitHub/IS413_Mission09/Mission07/Mission07/Pages/_BuyLayout.cshtml"
@@ -62,7 +69,7 @@ using Mission07.Models;
 #line hidden
 #nullable disable
                 WriteLiteral("</title>\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "94fbccb7665ffd51092b7aaeda93c5b9659a437e4505", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "94fbccb7665ffd51092b7aaeda93c5b9659a437e4705", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -89,7 +96,7 @@ using Mission07.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "94fbccb7665ffd51092b7aaeda93c5b9659a437e6356", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "94fbccb7665ffd51092b7aaeda93c5b9659a437e6556", async() => {
                 WriteLiteral("\n\n    <div class=\"bg-dark text-white p-2\">\n        Mission 07 Book Store\n    </div>\n\n    <div class=\"m-1 p-1\">\n        ");
 #nullable restore
 #line 16 "/Users/johnfluhman/Documents/GitHub/IS413_Mission09/Mission07/Mission07/Pages/_BuyLayout.cshtml"

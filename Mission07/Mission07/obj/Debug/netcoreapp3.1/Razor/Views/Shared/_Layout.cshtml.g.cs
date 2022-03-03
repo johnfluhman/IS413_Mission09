@@ -33,8 +33,15 @@ using Mission07.Infrastructure;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 5 "/Users/johnfluhman/Documents/GitHub/IS413_Mission09/Mission07/Mission07/Views/_ViewImports.cshtml"
+using System.Globalization;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"dd9fe419f7e43853d48b9f6d9effcfea49da98c4", @"/Views/Shared/_Layout.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"23ad7e64f1e8b521a7220e41ea99f4972bcb6644", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a07ae17c10cb4250c82a3eeb8393680ad9752897", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared__Layout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private global::Mission07.Views.Shared.Views_Shared__Layout.__Generated__CategoriesViewComponentTagHelper __CategoriesViewComponentTagHelper;
@@ -67,7 +74,7 @@ using Mission07.Infrastructure;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("<!DOCTYPE html>\n\n<html>\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd9fe419f7e43853d48b9f6d9effcfea49da98c44526", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd9fe419f7e43853d48b9f6d9effcfea49da98c44726", async() => {
                 WriteLiteral("\n    <meta name=\"viewport\" content=\"width=device-width\" />\n    <title>");
 #nullable restore
 #line 6 "/Users/johnfluhman/Documents/GitHub/IS413_Mission09/Mission07/Mission07/Views/Shared/_Layout.cshtml"
@@ -77,7 +84,7 @@ using Mission07.Infrastructure;
 #line hidden
 #nullable disable
                 WriteLiteral("</title>\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "dd9fe419f7e43853d48b9f6d9effcfea49da98c45104", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "dd9fe419f7e43853d48b9f6d9effcfea49da98c45304", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -104,9 +111,9 @@ using Mission07.Infrastructure;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd9fe419f7e43853d48b9f6d9effcfea49da98c46955", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd9fe419f7e43853d48b9f6d9effcfea49da98c47155", async() => {
                 WriteLiteral("\n\n    <div class=\"bg-dark text-white p-2\">\n        <span class=\"navbar-brand ml-2\">Mission 7 Book Store</span>\n    </div>\n\n    <div class=\"row m-1 p-1\">\n        <div id=\"categories\" class=\"col-3\">\n            ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("vc:categories", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd9fe419f7e43853d48b9f6d9effcfea49da98c47434", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("vc:categories", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd9fe419f7e43853d48b9f6d9effcfea49da98c47634", async() => {
                 }
                 );
                 __CategoriesViewComponentTagHelper = CreateTagHelper<global::Mission07.Views.Shared.Views_Shared__Layout.__Generated__CategoriesViewComponentTagHelper>();
