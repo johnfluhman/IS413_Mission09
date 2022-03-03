@@ -1,26 +1,47 @@
 ﻿<Properties StartupConfiguration="{6DD42ABC-2154-482B-94D8-8BC3A0D5958A}|Default">
   <MonoDevelop.Ide.ItemProperties.Mission07 PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mission07/Models/Purchase.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission07/Views/Shared/Components/BasketSummary/Default.cshtml">
     <Files>
-      <File FileName="Mission07/Startup.cs" Line="1" Column="1" />
-      <File FileName="Mission07/Pages/Buy.cshtml" Line="43" Column="1" />
+      <File FileName="Mission07/Controllers/PurchaseController.cs" Line="41" Column="58" />
+      <File FileName="Mission07/Models/IPurchaseRepository.cs" Line="10" Column="53" />
+      <File FileName="Mission07/Models/EFPurchaseRepository.cs" Line="31" Column="1" />
+      <File FileName="Mission07/Startup.cs" Line="35" Column="77" />
+      <File FileName="Mission07/Views/Purchase/Checkout.cshtml" Line="10" Column="57" />
+      <File FileName="Mission07/Pages/DonationCompleted.cshtml" Line="7" Column="53" />
+      <File FileName="Mission07/Models/EFBookstoreRepository.cs" Line="1" Column="1" />
+      <File FileName="Mission07/Models/Basket.cs" Line="1" Column="1" />
+      <File FileName="Mission07/Models/SessionBasket.cs" Line="1" Column="1" />
       <File FileName="Mission07/Models/Purchase.cs" Line="1" Column="1" />
+      <File FileName="Mission07/Migrations/20220303025002_AddPurchasesTable.cs" Line="80" Column="1" />
+      <File FileName="Mission07/Views/Shared/_Layout.cshtml" Line="19" Column="19" />
+      <File FileName="Mission07/Components/BasketSummaryViewComponent.cs" Line="18" Column="33" />
+      <File FileName="Mission07/Views/Shared/Components/BasketSummary/Default.cshtml" Line="12" Column="94" />
+      <File FileName="Mission07/Pages/Buy.cshtml" Line="24" Column="108" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission07" expanded="True">
             <Node name="Mission07" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="Purchase.cs" selected="True" />
-              </Node>
+              <Node name="Components" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
+                <Node name="Purchase" expanded="True" />
                 <Node name="Shared" expanded="True">
                   <Node name="Components" expanded="True">
+                    <Node name="BasketSummary" expanded="True">
+                      <Node name="Default.cshtml" selected="True" />
+                    </Node>
                     <Node name="Categories" expanded="True" />
                   </Node>
                 </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True" />
               </Node>
             </Node>
           </Node>

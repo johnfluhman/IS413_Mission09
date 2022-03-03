@@ -20,6 +20,8 @@
     <None Remove="Pages\" />
     <None Remove="Views\Shared\Components\" />
     <None Remove="Views\Shared\Components\Categories\" />
+    <None Remove="Views\Purchase\" />
+    <None Remove="Views\Shared\Components\BasketSummary\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.22" />
@@ -46,6 +48,8 @@
     <Folder Include="Pages\" />
     <Folder Include="Views\Shared\Components\" />
     <Folder Include="Views\Shared\Components\Categories\" />
+    <Folder Include="Views\Purchase\" />
+    <Folder Include="Views\Shared\Components\BasketSummary\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />

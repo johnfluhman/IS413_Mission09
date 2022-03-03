@@ -14,7 +14,7 @@
         "outputPath": "/Users/johnfluhman/Documents/GitHub/IS413_Mission09/Mission07/Mission07/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/johnfluhman/.config/NuGet/NuGet.Config"
+          "/Users/johnfluhman/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

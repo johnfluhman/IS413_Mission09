@@ -235,3 +235,6 @@
 /Users/johnfluhman/Documents/GitHub/IS413_Mission09/Mission07/Mission07/obj/Debug/netcoreapp3.1/Mission07.dll
 /Users/johnfluhman/Documents/GitHub/IS413_Mission09/Mission07/Mission07/obj/Debug/netcoreapp3.1/Mission07.pdb
 /Users/johnfluhman/Documents/GitHub/IS413_Mission09/Mission07/Mission07/obj/Debug/netcoreapp3.1/Mission07.genruntimeconfig.cache
+/Users/johnfluhman/Documents/GitHub/IS413_Mission09/Mission07/Mission07/obj/Debug/netcoreapp3.1/Razor/Views/Purchase/Checkout.cshtml.g.cs
+/Users/johnfluhman/Documents/GitHub/IS413_Mission09/Mission07/Mission07/obj/Debug/netcoreapp3.1/Razor/Pages/DonationCompleted.cshtml.g.cs
+/Users/johnfluhman/Documents/GitHub/IS413_Mission09/Mission07/Mission07/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/BasketSummary/Default.cshtml.g.cs

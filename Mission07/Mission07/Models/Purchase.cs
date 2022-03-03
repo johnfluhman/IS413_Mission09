@@ -30,7 +30,5 @@ namespace Mission07.Models
         public string Zip { get; set; }
         [Required(ErrorMessage = "Please enter a country")]
         public string Country { get; set; }
-
-        public bool Anonymous { get; set; }
     }
 }
